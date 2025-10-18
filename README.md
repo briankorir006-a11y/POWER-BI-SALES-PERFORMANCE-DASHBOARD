@@ -70,7 +70,7 @@ All visuals are displayed on a **single interactive report page**, allowing user
 ---
 
 ## 🖼️ **Screenshot**
-![alt text]()
+![alt text](https://github.com/briankorir006-a11y/POWER-BI-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202025-10-19%20011728.png?raw=true)
 
 
 ---
@@ -88,5 +88,4 @@ It’s a strong example of how analytics can drive smarter sales and marketing d
 
 ---
 
-## 📥 **Download Dashboard**
-Click [**here**](https://drive.google.com/file/d/1lWbkHMjYudyLK8tMZePZ1quv114BuPS_/view?usp=sharing) to open and download the Power BI dashboard file.
+
