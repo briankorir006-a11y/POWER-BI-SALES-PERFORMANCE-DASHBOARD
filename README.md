@@ -70,7 +70,7 @@ All visuals are displayed on a **single interactive report page**, allowing user
 ---
 
 ## 🖼️ **Screenshot**
-![alt text]()
+![alt text](https://github.com/briankorir006-a11y/POWER-BI-SALES-PERFORMANCE-DASHBOARD/blob/main/Screenshot%202025-10-19%20011728.png?raw=true)
 
 
 ---
