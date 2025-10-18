@@ -88,5 +88,4 @@ It’s a strong example of how analytics can drive smarter sales and marketing d
 
 ---
 
-## 📥 **Download Dashboard**
-Click [**here**](https://drive.google.com/file/d/1lWbkHMjYudyLK8tMZePZ1quv114BuPS_/view?usp=sharing) to open and download the Power BI dashboard file.
+
