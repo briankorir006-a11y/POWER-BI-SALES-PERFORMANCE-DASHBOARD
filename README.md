@@ -1,4 +1,4 @@
-# 🚗 Sales Performance Dashboard – Power BI Desktop
+# Sales Performance Dashboard – Power BI Desktop
 
 ## 🏷️ **Project Tagline**
 An interactive Power BI dashboard analyzing sales performance across customer categories, provinces, and time periods — enabling management and marketing teams to make data-driven decisions.
@@ -70,9 +70,8 @@ All visuals are displayed on a **single interactive report page**, allowing user
 ---
 
 ## 🖼️ **Screenshot**
-| Dashboard Preview |
-|-------------------|
-| ![BMW Dashboard](ASSET/IMAGE1.PNG) |
+![alt text]()
+
 
 ---
 
