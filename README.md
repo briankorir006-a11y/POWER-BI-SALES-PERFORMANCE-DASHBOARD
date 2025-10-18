@@ -1,4 +1,4 @@
-Sales Performance Dashboard (Power BI Desktop)
+
 Project Title
 
 Sales Performance Dashboard – Power BI Desktop
