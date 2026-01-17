@@ -2,6 +2,12 @@
 
 ## 🏷️ **Project Tagline**
 An interactive Power BI dashboard analyzing sales performance across customer categories, provinces, and time periods — enabling management and marketing teams to make data-driven decisions.
+## **Dataset**
+Click [here](https://drive.google.com/file/d/1n-lOWPTnFeuZ7SRGQyuHFULwykZ4Wy7K/view?usp=drive_link) to download the dataset.
+
+## ** Dashboard **
+
+Click [here](https://drive.google.com/file/d/1w5NMmvWLUNpxX-rXhydK4CvC7C6BfcJv/view?usp=drive_link) to download the dashboard.
 
 ---
 
